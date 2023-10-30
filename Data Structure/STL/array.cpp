@@ -9,4 +9,5 @@ cout<<a.at(2)<<endl;
 cout<<a.empty()<<endl;
 cout<<a.front()<<endl;
 cout<<a.back();
+cout<<a.back();
 }
